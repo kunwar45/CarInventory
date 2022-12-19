@@ -1,0 +1,37 @@
+Year,Name,Colour,Engine,Cylinders,Category,Price,Type,Status,Age
+2021,Hyundai Sonata 1.6T Luxury,Silver,Engine: 1.6L Turbo GDI DOHC 16-Valve I4 CVVD,4,Sedan,38296,New,Demo,336
+2021,Hyundai Santa Fe Ultimate Calligraphy AWD,White,Engine: 2.5L Turbo GDI 16-Valve I4 -inc: idle start-stop,4,SUV,49546,New,Demo,308
+2021,Hyundai Santa Fe Preferred AWD,White,Engine: 2.5L GDI MPI DOHC 16-Valve I4 -inc: idle start-stop,4,SUV,38446,New,Demo,300
+2021,Hyundai Elantra Preferred IVT,White,Engine: 2.0L MPI DOHC I4,4,Sedan,25246,New,Demo,256
+2021,Hyundai Santa Fe Ultimate Calligraphy AWD,Silver,Engine: 2.5L Turbo GDI 16-Valve I4 -inc: idle start-stop,4,SUV,49746,New,Demo,244
+2021,Hyundai Santa Fe Preferred AWD,Silver,Engine: 2.5L GDI MPI DOHC 16-Valve I4 -inc: idle start-stop,4,SUV,38646,New,Demo,239
+2016,Hyundai Tucson FWD 4dr 2.0L,Blue,Engine: 2.0L GDI I4 16V DOHC,4,SUV,19647,Used,Stock,217
+2011,Hyundai Santa Fe AWD 4dr V6 Auto GL,Blue,3.5L DOHC CVVT V6 engine,6,SUV,31647,Used,Stock,232
+2022,Hyundai Sonata 2.5L Preferred,Silver,Engine: 2.5L GDI MPI DOHC 16-Valve I4 CVVT,4,Sedan,29596,New,Demo,132
+2022,Hyundai Santa Fe Urban AWD,White,Engine: 2.5L Turbo GDI MPI DOHC 16-Valve I4 -inc: idle stop and go,4,SUV,42344,New,Demo,120
+2022,Hyundai Santa Fe Urban AWD,White,Engine: 2.5L Turbo GDI MPI DOHC 16-Valve I4 -inc: idle stop and go,4,SUV,42346,New,Stock,120
+2022,Hyundai Santa Fe Urban AWD,White,Engine: 2.5L Turbo GDI MPI DOHC 16-Valve I4 -inc: idle stop and go,4,SUV,42346,New,Demo,120
+2022,Hyundai Santa Fe Urban AWD,White,Engine: 2.5L Turbo GDI MPI DOHC 16-Valve I4 -inc: idle stop and go,4,SUV,42346,New,Stock,118
+2022,Hyundai Venue Preferred IVT,Black,Engine: 1.6L DPI DOHC 16-Valve I4 CVVT,4,SUV,23746,New,Demo,78
+2020,Hyundai Palisade Essential 8-Passenger AWD,Gray,Engine: 3.8L GDI D-CVVT 24-Valve V6,6,SUV,54647,Used,Stock,45
+2022,Hyundai Venue Ultimate IVT w/Denim Interior,Orange,Engine: 1.6L DPI DOHC 16-Valve I4 CVVT,4,SUV,27146,New,Stock,29
+2022,Hyundai Venue Ultimate IVT w/Denim Interior,Blue,Engine: 1.6L DPI DOHC 16-Valve I4 CVVT,4,SUV,27146,New,Stock,29
+2022,Hyundai Sonata 2.5T N Line,Gray,Engine: 2.5L Turbo GDI MPI DOHC 16-Valve I4 CVVT,4,Sedan,40746,New,Stock,27
+2022,Hyundai Sonata 2.5L Preferred,Blue,Engine: 2.5L GDI MPI DOHC 16-Valve I4 CVVT,4,Sedan,29646,New,Stock,27
+2022,Hyundai Sonata 2.5T N Line,White,Engine: 2.5L Turbo GDI MPI DOHC 16-Valve I4 CVVT,4,Sedan,40546,New,Stock,26
+2019,Hyundai Santa Fe 2.0T Ultimate AWD,White,: 2.0L Turbo GDI E-CVVT 16-Valve 4-Cylinder -inc: idle start-stop,4,SUV,38547,Used,Stock,23
+2011,Hyundai Genesis Coupe 2dr V6 Auto GT,Black,3.8L DOHC MPFI 24-valve V6,6,Coupe,27647,Used,Stock,16
+2018,Hyundai Tucson 2.0L Premium AWD,Brown,Engine: 2.0L NU 4-Cylinder GDI DOHC,6,SUV,26947,Used,Stock,15
+2022,Hyundai Santa Fe Preferred AWD,Red,Engine: 2.5L GDI MPI DOHC 16-Valve I4 -inc: idle stop and go,4,SUV,38746,New,Stock,13
+2013,Hyundai Elantra 4dr Sdn Auto L *Ltd Avail*,Gray,1.8L DOHC 16-valve dual-CVVT I4 engine,4,Sedan,26547,Used,Stock,14
+2013,Hyundai Sonata 4dr Sdn 2.4L Auto GLS,White,2.4L DOHC dual CVVT GDI 16-valve variable intake system I4,4,Sedan,27547,Used,Stock,8
+2022,Hyundai Tucson Essential FWD,White,Engine: 2.5L GDI MPI DOHC I4 CVVT -inc: engine idle stop and go,4,SUV,29746,New,Stock,7
+2022,Hyundai Kona 2.0L Preferred FWD,Gray,Engine: 2.0L MPI 4-Cylinder DOHC,4,SUV,26146,New,Stock,6
+2022,Hyundai Santa Cruz Preferred AWD w/Trend Pkg,Green,Engine: 2.5L Turbo GDI MPI DOHC 16-Valve I4 CVVT,4,Truck,43546,New,Stock,6
+2022,Hyundai Santa Fe Preferred AWD w/Trend Package,White,Engine: 2.5L GDI MPI DOHC 16-Valve I4 -inc: idle stop and go,4,SUV,40646,New,Stock,6
+2017,Hyundai Santa Fe XL AWD 4dr Limited w/6-Passenger,Black,: 3.3L GDI DOHC 24-Valve V6,6,SUV,35847,Used,Stock,1
+2018,Hyundai Elantra GL Auto,Pink,: 2.0L MPI Atkinson DOHC In-Line 4-Cylinder -inc: Normally aspirated,4,Sedan,32547,Used,Stock,1
+2022,Hyundai Elantra Preferred IVT,Gray,Engine: 2.0L MPI DOHC I4 CVVT,4,Sedan,24046,New,Stock,1
+2022,Hyundai Elantra N Line DCT,Blue,Engine: 1.6L Turbocharged GDI I4 D-CVVT,4,Sedan,29746,New,Stock,1
+2022,Hyundai Tucson Preferred FWD,Gray,Engine: 2.5L GDI MPI DOHC I4 CVVT -inc: engine idle stop and go,4,SUV,32346,New,Stock,1
+2022,Hyundai Tucson Preferred AWD w/Trend Package,Black,Engine: 2.5L GDI MPI DOHC I4 CVVT -inc: engine idle stop and go,4,SUV,36946,New,Stock,1
