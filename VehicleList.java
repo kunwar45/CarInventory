@@ -27,6 +27,7 @@ class VehicleList {
     this.vehicleList = new ArrayList<>();
 
     setList();
+    System.out.println("Hello");
     makeInd();
     
   }
